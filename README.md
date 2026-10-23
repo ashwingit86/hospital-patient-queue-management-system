@@ -97,7 +97,7 @@ hospital-patient-queue-management-system/
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<your-username>/hospital-patient-queue-management-system.git
+git clone https://github.com/ashwingit86/hospital-patient-queue-management-system.git
 cd hospital-patient-queue-management-system
 
 # 2. Start the program
